@@ -3,9 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "start": "node first.js"
-  "scripts": {
-     "start": "node first.js"
-  },
+ 
   "keywords": [],
   "author": "",
   "license": "ISC",
